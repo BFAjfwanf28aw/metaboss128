@@ -1,0 +1,58 @@
+{
+  "name": "Eclectic Being #3605",
+  "symbol": "ECLESTIA",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "blob:https://explorer.solana.com/7472f1da-9716-4458-8b97-db2ee94b9f4c",
+  "attributes": [
+   {
+      "trait_type": "Backgrounds",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Skin 8"
+    },
+    {
+      "trait_type": "Bodysuits",
+      "value": "Mount Eclestia"
+    },
+    {
+      "trait_type": "Cheeks",
+      "value": "Sunburnt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Jet Black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sage Eyes"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Satanic Fumes"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 7,
+      "display_type": "number",
+      "max_value": 5555
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
