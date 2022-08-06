@@ -1,43 +1,47 @@
 {
-  "name": "Eclectic Being #3605",
-  "symbol": "ECLESTIA",
+  "name": "MEKAGods #1286",
+  "symbol": "MKG",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 200,
-  "image": "https://nftstorage.link/ipfs/bafybeiahdbqwloe7lv5tyqppujl5a3zvrrpnpxm2enhhm73udbckokxowa/1900.jpeg",
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/bafybeicv5ctmqnwl3cy5h3ptcesng77sxs444myyhbihhi65gvy3a7syxy/320.png",
   "attributes": [
    {
-      "trait_type": "Backgrounds",
-      "value": "Midnight"
+      "trait_type": "Background",
+      "value": "Sand"
     },
     {
-      "trait_type": "Skins",
-      "value": "Skin 8"
+      "trait_type": "Stamp",
+      "value": "Degods-for-export 0000s 0003 5-01"
     },
     {
-      "trait_type": "Bodysuits",
-      "value": "Mount Eclestia"
+      "trait_type": "Skin",
+      "value": "Ghost Blue Skin"
     },
     {
-      "trait_type": "Cheeks",
-      "value": "Sunburnt"
+      "trait_type": "Clothing",
+      "value": "General Red Suit"
     },
     {
-      "trait_type": "Hair",
-      "value": "Jet Black"
+      "trait_type": "Head",
+      "value": "Black Hat"
     },
     {
-      "trait_type": "Face",
-      "value": "Sage Eyes"
+      "trait_type": "Eyes",
+      "value": "Red Possessed"
     },
     {
-      "trait_type": "Headgear",
-      "value": "Satanic Fumes"
+      "trait_type": "Eyewear",
+      "value": "Mask Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Original Tobacco"
     },
     {
       "trait_type": "Rarity Rank",
-      "value": 7,
+      "value": 83,
       "display_type": "number",
-      "max_value": 5555
+      "max_value": 5000
     }
   ],
   "properties": {
