@@ -3,7 +3,7 @@
   "symbol": "ECLESTIA",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 200,
-  "image": "blob:https://explorer.solana.com/7472f1da-9716-4458-8b97-db2ee94b9f4c",
+  "image": "https://nftstorage.link/ipfs/bafybeiahdbqwloe7lv5tyqppujl5a3zvrrpnpxm2enhhm73udbckokxowa/1900.jpeg",
   "attributes": [
    {
       "trait_type": "Backgrounds",
